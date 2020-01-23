@@ -1,6 +1,6 @@
 # Installation
 
-Make sure you have the following dependencies are *globally* installed:
+Make sure you have the following dependencies are **globally installed**:
 * [themekit](https://shopify.github.io/themekit/)
 * [Parcel](https://parceljs.org/getting_started.html)
 * [Concurrently](https://www.npmjs.com/package/concurrently#install)
