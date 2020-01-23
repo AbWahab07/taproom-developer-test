@@ -49,11 +49,7 @@ Create a Shopify section to preview a collection of products in a slider. You ca
 * Code should be placed in the appropriate files.
 
 ### Get started
-To get started, you'll need to create a Shopify development store.
-
-This Shopify theme should be built with Slate v1. Make sure you have all necessary requirements set on your computer by following the instructions in the aforementioned link.
-
-Run yarn create slate-theme taproom-test to begin working on your theme.
+To get started, you'll need to create a Shopify development store. Please see intallation section at the top of this readme for instructions on how to deploy this theme to your development store.
 
 Build out the page with the requirements mentioned above. Create a GitHub repo to share with us and send over the myshopify URL so we can request collaborator access.
 
