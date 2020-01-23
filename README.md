@@ -1,8 +1,8 @@
 # Installation
 
-Make sure you have the following dependencies installed:
+Make sure you have the following dependencies are *globally* installed:
 * [themekit](https://shopify.github.io/themekit/)
-* [Parcel](https://parceljs.org/getting_started.html) globally installed
+* [Parcel](https://parceljs.org/getting_started.html)
 * [Concurrently](https://www.npmjs.com/package/concurrently#install)
 
 Once both dependencies are installed, connect the repo to your development store using the config.yml. There is an example in the repo.
