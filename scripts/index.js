@@ -7,4 +7,3 @@ import 'babel-polyfill';
  * modules
  */
 import './layouts/theme';
-import './sections/header';
