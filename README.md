@@ -18,7 +18,7 @@ $ ./bin/watch.sh
 # Challenge
 
 ### Introduction
-This is the technical test for our frontend developer position. We have created a Figma design file with all design elements for desktop and mobile ready for you to code. Your task is to take these designs and build a Shopify theme for this specific page.
+This is the technical test for our frontend developer position. We have created a [Figma design file](https://www.figma.com/file/lNVNe5OHovFYInyK6sMZVL/The-Taproom-Dev-Test?node-id=0%3A1) with all design elements for desktop and mobile ready for you to code. Your task is to take these designs and build a Shopify theme for this specific page.
 
 ***
 
@@ -31,7 +31,7 @@ When hovering over the first "Category" link, a mega menu should appear with fou
 #### Quick View
 Clicking on the "Quick View" button (which should appear when hovering over a product) should trigger a modal with product information, and this "Add to Cart" button should add the item to the cart without closing the modal and update the cart state to reflect the new cart count.
 
-#### (Optional) Featured Product Slider
+#### Featured Product Slider
 Create a Shopify section to preview a collection of products in a slider. You can choose which slider script you'd like to use, as long as the website matches the design.
 
 ***
