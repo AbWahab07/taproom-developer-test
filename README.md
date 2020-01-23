@@ -1,3 +1,7 @@
+# Introduction
+
+Thanks for your interest in working with The Taproom! This is our frontend developer technical test. Read through this readme in full so you know what you'll be doing.
+
 # Installation
 
 Make sure you have the following dependencies are **globally installed**:
@@ -5,7 +9,7 @@ Make sure you have the following dependencies are **globally installed**:
 * [Parcel](https://parceljs.org/getting_started.html)
 * [Concurrently](https://www.npmjs.com/package/concurrently#install)
 
-Once both dependencies are installed, create a development store and a private app within your new development store. You will be using the default Debut theme that comes preinstalled with a new store. connect the repo to your development store using the config.yml file included (rename `config.example.yml` to `config.yml`).
+Once both dependencies are installed, connect the repo to your development store using the config.yml file included (rename `config.example.yml` to `config.yml`).
 
 Finally, run the command below:
 ```sh
