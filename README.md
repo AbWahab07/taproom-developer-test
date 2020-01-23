@@ -45,7 +45,7 @@ Create a Shopify section to preview a collection of products in a slider. You ca
 
 #### On the development side...
 * Your code should be clean and consistent.
-* We'll be looking closely at your preferred methods for JavaScript and CSS. We're fans of ES6 and keeping libraries to a minimum.
+* We'll be looking closely at your preferred methods for JavaScript and CSS. We're fans of ES6 and keeping libraries to a minimum. **use the /scripts directory to compile your es6**.
 * Code should be placed in the appropriate files.
 
 ### Get started
