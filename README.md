@@ -5,7 +5,7 @@ Make sure you have the following dependencies are **globally installed**:
 * [Parcel](https://parceljs.org/getting_started.html)
 * [Concurrently](https://www.npmjs.com/package/concurrently#install)
 
-Once both dependencies are installed, connect the repo to your development store using the config.yml. There is an example in the repo.
+Once both dependencies are installed, create a development store and a private app within your new development store. You will be using the default Debut theme that comes preinstalled with a new store. connect the repo to your development store using the config.yml file included (rename `config.example.yml` to `config.yml`).
 
 Finally, run the command below:
 ```sh
